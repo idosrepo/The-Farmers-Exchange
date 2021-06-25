@@ -109,7 +109,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Billie Thompson** - Initial work - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 

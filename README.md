@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-FARMX - The-Farmers-Exchange porject focuses on carbon exchange between the carbon gases emmittor and carbon gases consumer.
+FARMX - "The-Farmers-Exchange" is our porject which helps us to bridge the gap between carbon gases emmittor and carbon gases consumer.
 
 Our proposed application will be used for tracking the carbon gases emission and consumption. Emitter and consumer will update their data into the system. OR Our system will capture the real time data.We can easily find out the gap (if any) in emission and consumption of carbon gases. The system’s dashboard will guide us or suggest us what to do in case of there is gap.
 
@@ -31,15 +31,15 @@ Our proposed application will be used for tracking the carbon gases emission and
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+One of the major element in current climate change is excess of carbon gases emission. The carbon gases consumers are not able to consume all the carbon emissions. There is no system to track the emission and consumption.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+We are proposing / developing a system which tracks the emission and consuption of carbon gases. Our dashboard will show the real time data. We can guide about how to minimize the gap and overcome from access of carbon gases.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+The idea is to create a carbon free environment. 
 
 ## Demo video
 
@@ -49,10 +49,9 @@ It's imperative that learning and creating can continue when educational institu
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the system and see the dashboard with real time data of carbon gases emission and consuption.
+2. The user can update the values / data and generate reports.
+3. The reports can be used to send to consumers. This will help to enhance the consuption.
 
 ## Long description
 

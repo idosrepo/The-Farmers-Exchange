@@ -104,7 +104,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 <a href="https://github.com/cnpatil/cnpatil">
-  <img src="https://github.com/cnpatil" />
+  <img src="https://github.com/idosrepo/The-Farmers-Exchange/upload/main/images/COS/CN.gif" />
 </a>
 
 - **Chandrakant Patil** - Initial work - [C N Patil](https://github.com/cnpatil)

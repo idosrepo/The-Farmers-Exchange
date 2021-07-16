@@ -107,11 +107,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="https://github.com/cnpatil" />
 </a>
 
-- **Chandrakant Patil** - Initial work - [PurpleBooth](https://github.com/PurpleBooth)
+- **Chandrakant Patil** - Initial work - [C N Patil](https://github.com/cnpatil)
 
 ## License
 
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
+This project is open source project.
 
 ## Acknowledgments
 

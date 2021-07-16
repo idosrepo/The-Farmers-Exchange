@@ -103,11 +103,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="https://github.com/cnpatil/cnpatil">
+  <img src="https://github.com/cnpatil" />
 </a>
 
-- **Billie Thompson** - Initial work - [PurpleBooth](https://github.com/PurpleBooth)
+- **Chandrakant Patil** - Initial work - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 

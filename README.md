@@ -84,7 +84,7 @@ In this section you add the instructions to run your project on your local machi
 
 You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
 
-## Built with
+## Built with.
 
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 - [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic

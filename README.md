@@ -2,9 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-FARMX - "The-Farmers-Exchange" is our project which helps us to bridge the gap between carbon gas emmittor and carbon gas consumer.
+FARMX - "The-Farmers-Exchange" project's goal is to bridge the gap between carbon gas emmittor and carbon gas consumer.
 
-Our proposed application will be used for tracking the carbon gases emission and consumption. Emitter and consumer will update their data into the system. OR Our system will capture the real time data. We can easily find out the gap (if any) in the emission and consumption of carbon gases. The system’s dashboard will guide us or suggest us what to do in case of there is gap.
+Our proposed application will be used for tracking the carbon gases emission and consumption. Either Emitter and consumer will update the required data into the system or our system will capture the real time data. Then FARMX application can easily find out the gap (if any) in the emission and consumption of carbon gases. FARMX Dashboard will show the details and also suggest users the actions required in case of the gap.
 
 ## Contents
 
@@ -31,15 +31,15 @@ Our proposed application will be used for tracking the carbon gases emission and
 
 ### What's the problem?
 
-One of the major element in current climate change is excess of carbon gases emission. The carbon gases consumers are not able to consume all the carbon emissions. There is no system to track the emission and consumption.
+One of the major elements in current climate change is the excess of carbon gases emission. The carbon gas consumers are not able to consume all the carbon gas emmitted. Currently there is no system to track the cabon gas emission and consumption.
 
 ### How can technology help?
 
-We are proposing / developing a system which tracks the emission and consuption of carbon gases. Our dashboard will show the real time data. We can guide about how to minimize the gap and overcome from access of carbon gases.
+We are developing a system FARMX which will track the exact emission and consuption of the carbon gases. FARMX dashboard will show the real time data. Addistionaly this system will guide users to overcome the excess carbon gas issue.
 
 ### The idea
 
-The idea is to create a carbon free environment. 
+The idea is to reduce the release of carbon gases to promote a greener environment.
 
 ## Demo video
 

@@ -49,9 +49,9 @@ The idea is to reduce the release of carbon gases to promote a greener environme
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the system and see the dashboard with real time data of carbon gases emission and consuption.
-2. The user can update the values / data and generate reports.
-3. The reports can be used to send to consumers. This will help to enhance the consuption.
+1. The user will be navigated to the system dashboard to view the real time data of carbon gases emission and consuption.
+2. The user will be able to update the data and generate the reports.
+3. The reports can be shared with the consumers. This feature will help users to enhance the carbon gas consuption and reduce the emmission. 
 
 ## Long description
 
@@ -59,12 +59,12 @@ The idea is to reduce the release of carbon gases to promote a greener environme
 
 ## Project roadmap
 
-The project currently does the following things.
+Listed below are the important features of project FARMX:
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+- Feature 1  (TBD)
+- Feature 2  (TBD)
+- Feature 3  (TBD)
+- Feature 4  (TBD)
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 

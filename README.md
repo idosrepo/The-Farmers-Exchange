@@ -2,9 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-FARMX - "The-Farmers-Exchange" project's goal is to bridge the gap between carbon gas emmittor and carbon gas consumer.
+FARMX - "The-Farmers-Exchange" project's goal is to bridge the gap between carbon gas emmission and carbon gas consumtion.
 
-Our proposed application will be used to track the carbon gases emission and consumption. Either Emitter and consumer will update the required data into the system or our system will capture the real time data. Then FARMX application can easily find out the gap (if any) in the emission and consumption of carbon gases. FARMX Dashboard will show the details and also suggest users the actions required in case of the gap.
+Our proposed application will be used to track the carbon gases emission and consumption. Either emitter and consumer will update the required data into the system or our system will capture the real time data. Then FARMX application will find out the exact gap (if any) in the emission and consumption of carbon gases.  FARMx dashboard will show the details and also suggest users the actions required in case of the gap.
 
 ## Contents
 
